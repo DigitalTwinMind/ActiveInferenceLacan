@@ -8,14 +8,14 @@ There has been a growing interest in exploring behavior, brain, and mind through
   <img src="WFG.png" width="400" height="500">
 </p>
 
-For more information, please read our [arXiv paper](https://arxiv.org/abs/2309.06707) :
+For more information, please read our [paper](https://doi.org/10.3389/fpsyg.2025.1574650) :
 ```
-@misc{li2023active,
-      title={An active inference model of Lacanian psychoanalysis}, 
-      author={Lingyu Li and Chunbo Li},
-      year={2023},
-      eprint={2309.06707},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.NC}
+@article{li16formalizing,
+  title={Formalizing Lacanian Psychoanalysis Through the Free Energy Principle},
+  author={Li, Lingyu and Li, Chunbo},
+  journal={Frontiers in Psychology},
+  volume={16},
+  pages={1574650},
+  publisher={Frontiers}
 }
 ```
